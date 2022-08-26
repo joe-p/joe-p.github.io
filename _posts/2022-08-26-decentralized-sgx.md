@@ -23,7 +23,7 @@ A blockchain network is composed of a bunch of computers, or nodes, running some
 
 ### The Lesser Problem: Centralization
  
-It is crucial for blockchain networks to be as decentralized as possible. The introduction of Intel SGX as a core technology for these blockchains adds a significant component of centralization to these networks. Intel SGX is proprietary. If Intel decides to stop supporting it, networks that leverage will be screwed. Best case scenario they require nodes to run old hardware, but that still leaves them open to any future exploits that might be discovered. 
+It is crucial for blockchain networks to be as decentralized as possible. The introduction of Intel SGX as a core technology for these blockchains adds a significant component of centralization to these networks. Intel SGX is proprietary. If Intel decides to stop supporting it, networks that leverage it will be screwed. Best case scenario they require nodes to run old hardware, but that still leaves them open to any future exploits that might be discovered. 
 
 The good news for this problem is that there are alternative TEEs out there for various platforms, some of which are even open-source. They all, however, unfortunately fall victim to the second problem...
 
