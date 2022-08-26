@@ -6,6 +6,7 @@
 ###########################################################
 theme: beautiful-jekyll-theme
 url: https://joe-p.github.io
+baseurl: ""
 
 ############################
 # --- Required options --- #
